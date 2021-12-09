@@ -4,7 +4,7 @@ Best way to start project using latest techniques in Kotlin
 In this project you can learn how to start a big project with this Boiler plate code.This project contains latest techniques.Best coding style
 
 ## Techniques
-1-MVVM Design Pattern
+1-MVVM Design Pattern <br />
 2-Dagger-Hilt Dependency Injection
 3-Retrofit Api call with Okhttp3 authenticator
 4-Kotlin Couroutines
