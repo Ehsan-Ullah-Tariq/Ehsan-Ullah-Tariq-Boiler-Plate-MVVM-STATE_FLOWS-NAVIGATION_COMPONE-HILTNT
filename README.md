@@ -5,14 +5,14 @@ In this project you can learn how to start a big project with this Boiler plate 
 
 ## Techniques
 1-MVVM Design Pattern <br />
-2-Dagger-Hilt Dependency Injection
-3-Retrofit Api call with Okhttp3 authenticator
-4-Kotlin Couroutines
-5-Data Binding
-6-Stetho
-7-Sealed classes for Api Response Handling 
-8-State Flows
-9-List adapter 
-10-Moshi Convertor Factory
-11-ConstraintLayouts
+2-Dagger-Hilt Dependency Injection <br />
+3-Retrofit Api call with Okhttp3 authenticator <br />
+4-Kotlin Couroutines <br />
+5-Data Binding <br />
+6-Stetho <br />
+7-Sealed classes for Api Response Handling <br />
+8-State Flows <br />
+9-List adapter  <br />
+10-Moshi Convertor Factory <br />
+11-ConstraintLayouts <br />
 
